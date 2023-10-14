@@ -1,0 +1,7 @@
+{
+  "name": "validador",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
